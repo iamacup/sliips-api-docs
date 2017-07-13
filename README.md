@@ -25,7 +25,7 @@ Response format
 
 The response is always in the following format assuming there has not been any fundemental backend error (which will usually be returned as a non-successful response status):
 
-```json
+```bash
 {
     "generalStatus": <String>"success" | "error",
     "payload": <Any>,
@@ -35,7 +35,7 @@ The response is always in the following format assuming there has not been any f
 
 With the optional parameter of
 
-```json
+```bash
 {
     "statusCode": <String>
 }

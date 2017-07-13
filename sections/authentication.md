@@ -14,7 +14,7 @@ Login Request
 
 ###### Required request data 
 
-```json
+```bash
 {
     "username": <String>,
     "password": <String>
@@ -29,7 +29,7 @@ Login Response
 
 ###### Success response Format
 
-```json
+```bash
 {
     "generalStatus": <String>"success",
     "payload": <String>"Representing a JSON Web Token",
@@ -39,7 +39,7 @@ Login Response
 
 ###### Error response Format
 
-```json
+```bash
 {
     "generalStatus": <String>"error",
     "payload": <String>"Contains the error message",
