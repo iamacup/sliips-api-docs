@@ -25,6 +25,7 @@ Response format
 
 The response is always in the following format assuming there has not been any fundemental backend error (which will usually be returned as a non-successful response status):
 
+```json
 {
     "generalStatus": <String>"success" | "error",
     "payload": <Any>,
@@ -49,7 +50,7 @@ API endpoints
 -------------
 <!-- START API ENDPOINTS -->
 
-- [Authentication](https://github.com/basecamp/bc3-api/blob/master/sections/authentication)
+- [Authentication](https://github.com/iamacup/sliips-api-docs/blob/master/sections/authentication.md)
 
 <!-- END API ENDPOINTS -->
 
