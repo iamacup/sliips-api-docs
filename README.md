@@ -58,7 +58,7 @@ API endpoints
 Conduct
 -------
 
-Please note that this project is released with a [Contributor Code of Conduct](https://github.com/basecamp/bc3-api/blob/master/CONDUCT.md). By participating in discussions about the Sliips API, you agree to abide by these terms.
+Please note that this project is released with a [Contributor Code of Conduct](https://github.com/iamacup/sliips-api-docs/blob/master/CONDUCT.md). By participating in discussions about the Sliips API, you agree to abide by these terms.
 
 License
 -------
@@ -69,4 +69,4 @@ These API docs are licensed under [Creative Commons (CC BY-SA 4.0)](http://creat
 
 If you have a specific feature request or find a bug, [please open a GitHub issue](https://github.com/iamacup/sliips-api-docs/issues/new). We encourage you to fork these docs for local reference and happily accept pull requests with improvements.
 
-We would love to talk with anyone that has questions or comments, this is an open project driven by the Sliips values - www.sliips.com/contact/.
+We would love to talk with anyone that has questions or comments, this is an open project driven by the Sliips values - www.sliips.com/contact-us/.
