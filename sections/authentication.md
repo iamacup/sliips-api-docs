@@ -10,7 +10,7 @@ Endpoints:
 Login Request
 --------------------
 
-* `POST /api/login` to authenticate a single user
+* `POST /api/authentication/login` to authenticate a single user
 
 ###### Required request data 
 
