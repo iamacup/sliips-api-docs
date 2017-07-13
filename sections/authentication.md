@@ -3,7 +3,7 @@ Authentication
 
 Endpoints:
 
-- **Login**
+**Login**
 - [login Request](#login-request)
 - [login Response](#login-response)
 
