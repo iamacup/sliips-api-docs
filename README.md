@@ -1,6 +1,8 @@
 Sliips API
 ==================
 
+# THIS DOCUMENTATION IS OUT OF DATE!
+
 Welcome to the Sliips UI API! If you're looking for the API documentation, this is the right place!
 
 Authentication
