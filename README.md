@@ -1,3 +1,12 @@
+
+<div align="center">
+
+# THE SLIIPS PROJECT IS CURRENTLY DORMANT, THIS REPOSITORY IS NOT CURRENTLY BEING MAINTAINED.
+
+</div>
+
+---
+
 Sliips API
 ==================
 
